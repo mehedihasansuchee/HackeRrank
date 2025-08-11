@@ -16,5 +16,5 @@ def test(n):
         print("Not Weird")
 
 if __name__ == '__main__':
-    n = int(input(. strip())
+    n = int(input(). strip())
     test(n)
