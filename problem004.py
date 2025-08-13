@@ -5,3 +5,11 @@ Add logic to print two lines. The first line should contain the result of intege
 
 No rounding or formatting is necessary.'''
 
+def division(num1, num2):
+    print(num1 // num2)
+    print(num1 / num2)
+
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+    division(a, b)
