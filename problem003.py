@@ -5,7 +5,7 @@ The first line contains the sum of the two numbers.
 The second line contains the difference of the two numbers (first - second).
 The third line contains the product of the two numbers.'''
 
-def arithmetic (num1, num2):
+def arithmetic_perators (num1, num2):
     print(num1+num2)
     print(num1-num2)
     print(num1*num2)
@@ -13,4 +13,4 @@ def arithmetic (num1, num2):
 if __name__ == '__main__':
     a = int(input())
     b = int(input())
-    arithmetic(a, b)
+    arithmetic_perators (a, b)
