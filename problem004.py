@@ -5,7 +5,7 @@ Add logic to print two lines. The first line should contain the result of intege
 
 No rounding or formatting is necessary.'''
 
-def division(num1, num2):
+def division (num1, num2):
     print(num1 // num2)
     print(num1 / num2)
 
