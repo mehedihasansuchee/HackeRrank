@@ -1,5 +1,6 @@
 #Find the Runner-Up Score!
 
+
 def runner_up(array_students):
     array_students = list(array_students)
     array_students.sort(reverse=True)
