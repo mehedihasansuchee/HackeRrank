@@ -25,5 +25,4 @@ for _ in range(N):
         s.discard(int(command[1]))
 
 
-
 print(sum(s))
