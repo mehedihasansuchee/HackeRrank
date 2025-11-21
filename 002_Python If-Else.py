@@ -1,6 +1,7 @@
 #Python If-Else
 
 
+
 def test(n):
     if n % 2 != 0:
         print("Weird")
@@ -10,7 +11,6 @@ def test(n):
         print("Weird")
     elif (n % 2 == 0) and (n > 20):
         print("Not Weird")
-
 
 if __name__ == '__main__':
     n = int(input(). strip())
